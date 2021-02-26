@@ -91,8 +91,9 @@
                         publications, and experts from around the
                         globe. Everyone's <br> welcome. <a href="#" class="underline">Learn more.</a>
                     </p>
-                    <button class="my-4 px-4 py-2 border border-black bg-transparent rounded">Get Started
-                    </button>
+                    <a href="#" class="border border-black bg-transparent px-3 py-2 rounded-md text-sm font-medium">
+                        Get Started
+                    </a>
                 </div>
             </div>
         </div>
