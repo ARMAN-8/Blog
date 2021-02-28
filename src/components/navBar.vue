@@ -80,10 +80,10 @@
             </div>
         </nav>
 
-        <div class="bg-yellow-400">
+        <div class="bg-yellow-400 border-b border-black">
             <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
                 <div class="py-8">
-                    <h1 class="text-6xl font-semibold tracking-wide">
+                    <h1 class="text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wide">
                         Explore new <br> perspectives!
                     </h1>
                     <p class="my-4 font-semibold tracking-wide">
