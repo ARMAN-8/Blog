@@ -80,10 +80,10 @@
             </div>
         </nav>
 
-        <div class="bg-yellow-400">
+        <div class="bg-yellow-400 border-b border-black">
             <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
                 <div class="py-8">
-                    <h1 class="text-6xl font-semibold tracking-wide">
+                    <h1 class="text-4xl md:text-5xl lg:text-6xl font-semibold tracking-wide">
                         Explore new <br> perspectives!
                     </h1>
                     <p class="my-4 font-semibold tracking-wide">
@@ -91,8 +91,9 @@
                         publications, and experts from around the
                         globe. Everyone's <br> welcome. <a href="#" class="underline">Learn more.</a>
                     </p>
-                    <button class="my-4 px-4 py-2 border border-black bg-transparent rounded">Get Started
-                    </button>
+                    <a href="#" class="border border-black bg-transparent px-3 py-2 rounded-md text-sm font-medium">
+                        Get Started
+                    </a>
                 </div>
             </div>
         </div>
