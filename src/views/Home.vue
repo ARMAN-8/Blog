@@ -14,6 +14,6 @@ export default {
   components: {
     navBar,
     mainPageContent,
-  }
+  },
 }
 </script>

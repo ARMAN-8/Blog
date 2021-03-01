@@ -13,7 +13,6 @@
                             <!-- Icon when menu is closed. -->
                             <!--
                               Heroicon name: outline/menu
-
                               Menu open: "hidden", Menu closed: "block"
                             -->
                             <svg class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -55,8 +54,8 @@
                                 <a href="#"
                                    class="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Write</a>
                                 <a href="#"
-                                   class="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Sign
-                                    in</a>
+                                   class="text-black hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
+                                    <router-link to="/at-home">Sign in</router-link></a>
                                 <a href="#" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium">Get
                                     Started</a>
                             </div>
